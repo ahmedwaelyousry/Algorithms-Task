@@ -1,0 +1,4 @@
+﻿  heapsort.cpp
+D:\algo\heapsort\heapsort\heapsort.cpp(25,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\algo\heapsort\heapsort\heapsort.cpp(32,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  heapsort.vcxproj -> D:\algo\heapsort\x64\Debug\heapsort.exe
